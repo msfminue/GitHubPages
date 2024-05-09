@@ -1,1 +1,1 @@
-# hp-demo
+# GitHub Pages
